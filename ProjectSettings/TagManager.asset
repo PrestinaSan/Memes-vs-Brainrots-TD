@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - MeleeTower
+  - Enemy
+  - Bullet
+  - Ranged Tiles
+  - Melee Tiles
+  - RangedTower
+  - BossEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MeleeTowers
+  - GroundEnemies
+  - FlyingEnemies
+  - Bullet
+  - RangedTowers
+  - 
+  - 
+  - 
+  - 
+  - Plot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GroundEnemies
+    uniqueID: 2083817281
+    locked: 0
+  - name: FlyingEnemies
+    uniqueID: 4203190969
+    locked: 0
+  - name: MeleeTowers
+    uniqueID: 3966033055
+    locked: 0
+  - name: Bullet
+    uniqueID: 1814376067
+    locked: 0
+  - name: RangedTowers
+    uniqueID: 2066600611
+    locked: 0
+  - name: UI
+    uniqueID: 2964108517
+    locked: 0
+  m_RenderingLayers:
+  - Default
